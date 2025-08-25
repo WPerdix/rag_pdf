@@ -1,0 +1,7 @@
+flask==2.3.3
+flask-cors==4.0.0
+pymupdf==1.26.4
+faiss-cpu==1.7.4
+numpy==1.24.3
+ollama==0.5.3
+llama-index-llms-ollama==0.1.2
